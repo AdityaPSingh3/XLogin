@@ -16,7 +16,7 @@ const XLogin = () => {
 
   return (
     <div>
-      <h1>XLogin</h1>
+      <h1>Login Page</h1>
       <form onSubmit={handleSubmit}>
         <div>
           <label htmlFor="username">Username:</label>
